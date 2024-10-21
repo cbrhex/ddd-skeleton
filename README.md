@@ -22,3 +22,5 @@ $routesCollectionBuilder->addGET('you/url', 'YouService', 'youMethod');
 return $routesCollectionBuilder->build();
 
 ````
+
+Test PR hook
